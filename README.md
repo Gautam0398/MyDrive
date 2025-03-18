@@ -245,27 +245,6 @@ Custom context menu
 Trash
 ![Trash](https://github.com/subnub/myDrive/blob/master/github_images/trash.png?raw=true)
 
-<span id="video"></span>
-
-## 🎥 Video
-
-I created a short YouTube video, showing off myDrives design and features:
-
-[![myDrive 4 (open source Google Drive alternative) - UI and feature overview
-](https://github.com/subnub/myDrive/blob/master/github_images/youtube-video.jpeg?raw=true)](https://www.youtube.com/watch?v=IqmTvAFBszg "myDrive 4 (open source Google Drive alternative) - UI and feature overview
-")
-
-<span id="live-demo"></span>
-
-## 🕹️ Live demo
-
-[Demo](http://143.244.181.219:3000/)
-
-Note: Creating, deleting and other features are disabled in the demo. Also the service worker is not enabled in the demo, images thumbnails are not cached because of this.
-
-Also this is just a 512mb RAM droplet go easy on her.
-
-<span id="bugs"></span>
 
 ## 👾 Bug reports and feature requests
 
